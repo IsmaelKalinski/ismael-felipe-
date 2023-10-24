@@ -1,0 +1,41 @@
+head {
+  padding: 0;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  margin: 3px;
+  flex: 1 1 100vw;
+  background-color: darkgray;
+}
+header {
+  display: flex;
+  margin: 3px;
+  flex: 1 1 100vw;
+  background-color: darkgray;
+}
+nav {
+  display: flex;
+  margin: 3px;
+  flex: 1 1 100vw;
+  background-color: darkgray;
+}
+main {
+  display: flex;
+  margin: 3px;
+  flex: 1 1 100vw;
+  background-color: darkgray;
+}
+aside {
+  display: flex;
+  margin: 3px;
+  flex: 1 1 100vw;
+  background-color: darkgray;
+}
+footer {
+  display: flex;
+  margin: 3px;
+  flex: 1 1 100vw;
+  background-color: darkgray;
+}
